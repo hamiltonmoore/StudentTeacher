@@ -12,7 +12,7 @@ public class Student {
         this.grade = grade;
     }
 
-    public Student() {   //empty contstrucotr
+    public Student() {
     }
 
     public String getFirstName() {
